@@ -1,0 +1,1 @@
+$_mod.run("/marko-learn$1.0.0/routes/index/index.marko.init");

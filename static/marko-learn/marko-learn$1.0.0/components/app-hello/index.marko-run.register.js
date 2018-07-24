@@ -1,0 +1,1 @@
+$_mod.run("/marko-learn$1.0.0/components/app-hello/index.marko.register");
